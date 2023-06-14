@@ -1,10 +1,10 @@
-
+import InputForm from './components/chart/input.form.component';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>This is the inventory App</h1>
+      <InputForm/>
     </div>
   );
 }
